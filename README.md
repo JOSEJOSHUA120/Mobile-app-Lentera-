@@ -173,14 +173,6 @@ Aplikasi menggunakan haptic feedback untuk pengalaman yang lebih baik:
 - **Light vibration:** Pindah mode, mulai listening, selesai berbicara
 - **Heavy vibration (2x):** Error
 
-## Open-Meteo Weather
-
-Aplikasi menggunakan Open-Meteo untuk cuaca real-time:
-
-- Gratis tanpa API key
-- Data cuaca lengkap dengan deskripsi Bahasa Indonesia
-- Weather code otomatis di-mapping ke kondisi cuaca lokal
-- Mendukung berbagai kondisi: cerah, berawan, hujan, salju, badai petir, dll
 
 ## Animasi UI
 
